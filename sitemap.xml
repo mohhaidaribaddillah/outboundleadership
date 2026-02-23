@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/hero-banner.png</image:loc>
+      <image:title>Gemilang Katun Outbound - Outbound Effective Leadership Batu Malang</image:title>
+      <image:caption>Program outbound effective leadership terbaik di kawasan Batu Malang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/logo.png</image:loc>
+      <image:title>Logo Gemilang Katun Outbound</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Listing -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/blog.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Blog Article 1 -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/manfaat-outbound-leadership-kinerja-tim.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/blog-1.png</image:loc>
+      <image:title>Manfaat Outbound Leadership untuk Meningkatkan Kinerja Tim</image:title>
+      <image:caption>Tim korporat merayakan keberhasilan setelah program outbound effective leadership di Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 2 -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/tips-lokasi-outbound-batu-malang.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/blog-2.png</image:loc>
+      <image:title>Tips Memilih Lokasi Outbound di Batu Malang untuk Pelatihan Leadership</image:title>
+      <image:caption>Pemandangan aerial lokasi outbound pelatihan leadership di kawasan Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 3 -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/aktivitas-outbound-terbaik-kepemimpinan.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/blog-3.png</image:loc>
+      <image:title>5 Aktivitas Outbound Terbaik untuk Membangun Jiwa Kepemimpinan</image:title>
+      <image:caption>Peserta melakukan berbagai aktivitas outbound leadership development</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 4 -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/outbound-efektif-pengembangan-leadership.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/blog-4.png</image:loc>
+      <image:title>Mengapa Outbound Efektif untuk Pengembangan Leadership Karyawan</image:title>
+      <image:caption>Sesi leadership training outdoor dengan fasilitator profesional</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Blog Article 5 -->
+  <url>
+    <loc>https://outboundleadership.vercel.app/panduan-perencanaan-outbound-leadership-batu.html</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://outboundleadership.vercel.app/assets/img/blog-5.png</image:loc>
+      <image:title>Panduan Lengkap Perencanaan Outbound Leadership di Batu</image:title>
+      <image:caption>Tim perencana mendiskusikan strategi program outbound leadership</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

@@ -1,0 +1,39 @@
+# robots.txt for Gemilang Katun Outbound
+# https://outboundleadership.vercel.app/
+
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Sitemaps
+Sitemap: https://outboundleadership.vercel.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /assets/css/
+Disallow: /assets/js/
+Allow: /assets/img/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /assets/css/
+Disallow: /assets/js/
+Allow: /assets/img/
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
